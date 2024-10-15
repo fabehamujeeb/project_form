@@ -1,0 +1,9 @@
+/*comments*/
+h1 {
+    color: navy;
+    font-family: arial ;
+    text-decoration: underline;
+}
+input[type="text"] {
+    border: 2px solid green;
+}
